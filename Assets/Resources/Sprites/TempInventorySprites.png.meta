@@ -1,0 +1,837 @@
+fileFormatVersion: 2
+guid: bd9ecc9438108444586fcceb6c8c9d87
+timeCreated: 1459076768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TempInventorySprites_0
+    21300002: TempInventorySprites_1
+    21300004: TempInventorySprites_2
+    21300006: TempInventorySprites_3
+    21300008: TempInventorySprites_4
+    21300010: TempInventorySprites_5
+    21300012: TempInventorySprites_6
+    21300014: TempInventorySprites_7
+    21300016: TempInventorySprites_8
+    21300018: TempInventorySprites_9
+    21300020: TempInventorySprites_10
+    21300022: TempInventorySprites_11
+    21300024: TempInventorySprites_12
+    21300026: TempInventorySprites_13
+    21300028: TempInventorySprites_14
+    21300030: TempInventorySprites_15
+    21300032: TempInventorySprites_16
+    21300034: TempInventorySprites_17
+    21300036: TempInventorySprites_18
+    21300038: TempInventorySprites_19
+    21300040: TempInventorySprites_20
+    21300042: TempInventorySprites_21
+    21300044: TempInventorySprites_22
+    21300046: TempInventorySprites_23
+    21300048: TempInventorySprites_24
+    21300050: TempInventorySprites_25
+    21300052: TempInventorySprites_26
+    21300054: TempInventorySprites_27
+    21300056: TempInventorySprites_28
+    21300058: TempInventorySprites_29
+    21300060: TempInventorySprites_30
+    21300062: TempInventorySprites_31
+    21300064: TempInventorySprites_32
+    21300066: TempInventorySprites_33
+    21300068: TempInventorySprites_34
+    21300070: TempInventorySprites_35
+    21300072: TempInventorySprites_36
+    21300074: TempInventorySprites_37
+    21300076: TempInventorySprites_38
+    21300078: TempInventorySprites_39
+    21300080: TempInventorySprites_40
+    21300082: TempInventorySprites_41
+    21300084: TempInventorySprites_42
+    21300086: TempInventorySprites_43
+    21300088: TempInventorySprites_44
+    21300090: TempInventorySprites_45
+    21300092: TempInventorySprites_46
+    21300094: TempInventorySprites_47
+    21300096: TempInventorySprites_48
+    21300098: TempInventorySprites_49
+    21300100: TempInventorySprites_50
+    21300102: TempInventorySprites_51
+    21300104: TempInventorySprites_52
+    21300106: TempInventorySprites_53
+    21300108: TempInventorySprites_54
+    21300110: TempInventorySprites_55
+    21300112: TempInventorySprites_56
+    21300114: TempInventorySprites_57
+    21300116: TempInventorySprites_58
+    21300118: TempInventorySprites_59
+    21300120: TempInventorySprites_60
+    21300122: TempInventorySprites_61
+    21300124: TempInventorySprites_62
+    21300126: TempInventorySprites_63
+    21300128: TempInventorySprites_64
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TempInventorySprites_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 349
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 349
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 349
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 349
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 349
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 320
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 320
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 320
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 291
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_19
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 262
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 233
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 233
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_22
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 233
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_24
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 233
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 204
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 204
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 204
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 204
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_32
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 175
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_36
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 146
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_46
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_47
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_48
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 59
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_52
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_53
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 59
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 59
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_56
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_57
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 30
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_62
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_63
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: TempInventorySprites_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

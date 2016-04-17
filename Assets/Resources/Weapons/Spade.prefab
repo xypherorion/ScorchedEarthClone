@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &118944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 480510}
+  - 114: {fileID: 11439178}
+  - 114: {fileID: 11468516}
+  m_Layer: 0
+  m_Name: Spade
+  m_TagString: Weapon
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &480510
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 118944}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 45.1581, y: 4.943919, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.35062265}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11439178
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 118944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5d0d2b4f00042a408b3243b4da9d7c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HitPoints: []
+  CollisionObjects: []
+  HitUplift: 0.05
+  HitForce: 200
+  HitRadius: 0.5
+--- !u!114 &11468516
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 118944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 647a7336af4b1e74680de6131116944b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WeaponTimerBar: {fileID: 0}
+  cameraTrack: 0
+  projectileTrack: 0
+  displayHud: 1
+  weaponName: Fists
+  weaponDescription: Enemies getting too close? Fist 'em!
+  weaponPrice: 100
+  weaponTimer: 0
+  trigger:
+    IsTrigger: 0
+    TotalTicks: 0
+    TimeBetweenTicks: 0
+  crosshair:
+    From: 0
+    To: 360
+    Start: 90
+  power:
+    From: 100
+    To: 100
+    Start: 100
+  damage: 20
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: HitUplift
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: HitForce
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: HitRadius
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: crosshair.To
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: crosshair.Start
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: power.To
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: power.Start
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: power.From
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: damage
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: crosshair.From
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: weaponName
+      value: Fists
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: displayCrosshair
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: displayHud
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: weaponDescription
+      value: Enemies getting too close? Fist 'em!
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: weaponPrice
+      value: 100
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 118944}
+  m_IsPrefabParent: 1

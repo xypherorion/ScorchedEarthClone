@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &149006
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 458172}
+  - 114: {fileID: 11451148}
+  m_Layer: 0
+  m_Name: DamageIncrease
+  m_TagString: Weapon
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &458172
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149006}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 20.177624, y: 12.561372, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.35062265}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11451148
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149006}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 895dfb07180905240a72e7ada12e68cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WeaponTimerBar: {fileID: 0}
+  cameraTrack: 0
+  projectileTrack: 0
+  displayHud: 0
+  weaponName: Damage Increaser
+  weaponDescription: Increases the amount of damage dealt when you attack
+  weaponPrice: 2000
+  weaponTimer: 0
+  trigger:
+    IsTrigger: 0
+    TotalTicks: 0
+    TimeBetweenTicks: 0
+  crosshair:
+    From: 0
+    To: 0
+    Start: 0
+  power:
+    From: 0
+    To: 0
+    Start: 0
+  increaseBy: 2
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: weaponName
+      value: Damage Increaser
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: increaseBy
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: weaponDescription
+      value: Increases the amount of damage dealt when you attack
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: weaponPrice
+      value: 2000
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 149006}
+  m_IsPrefabParent: 1
