@@ -1,82 +1,213 @@
 fileFormatVersion: 2
 guid: bd9ecc9438108444586fcceb6c8c9d87
-timeCreated: 1459076768
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: TempInventorySprites_0
-    21300002: TempInventorySprites_1
-    21300004: TempInventorySprites_2
-    21300006: TempInventorySprites_3
-    21300008: TempInventorySprites_4
-    21300010: TempInventorySprites_5
-    21300012: TempInventorySprites_6
-    21300014: TempInventorySprites_7
-    21300016: TempInventorySprites_8
-    21300018: TempInventorySprites_9
-    21300020: TempInventorySprites_10
-    21300022: TempInventorySprites_11
-    21300024: TempInventorySprites_12
-    21300026: TempInventorySprites_13
-    21300028: TempInventorySprites_14
-    21300030: TempInventorySprites_15
-    21300032: TempInventorySprites_16
-    21300034: TempInventorySprites_17
-    21300036: TempInventorySprites_18
-    21300038: TempInventorySprites_19
-    21300040: TempInventorySprites_20
-    21300042: TempInventorySprites_21
-    21300044: TempInventorySprites_22
-    21300046: TempInventorySprites_23
-    21300048: TempInventorySprites_24
-    21300050: TempInventorySprites_25
-    21300052: TempInventorySprites_26
-    21300054: TempInventorySprites_27
-    21300056: TempInventorySprites_28
-    21300058: TempInventorySprites_29
-    21300060: TempInventorySprites_30
-    21300062: TempInventorySprites_31
-    21300064: TempInventorySprites_32
-    21300066: TempInventorySprites_33
-    21300068: TempInventorySprites_34
-    21300070: TempInventorySprites_35
-    21300072: TempInventorySprites_36
-    21300074: TempInventorySprites_37
-    21300076: TempInventorySprites_38
-    21300078: TempInventorySprites_39
-    21300080: TempInventorySprites_40
-    21300082: TempInventorySprites_41
-    21300084: TempInventorySprites_42
-    21300086: TempInventorySprites_43
-    21300088: TempInventorySprites_44
-    21300090: TempInventorySprites_45
-    21300092: TempInventorySprites_46
-    21300094: TempInventorySprites_47
-    21300096: TempInventorySprites_48
-    21300098: TempInventorySprites_49
-    21300100: TempInventorySprites_50
-    21300102: TempInventorySprites_51
-    21300104: TempInventorySprites_52
-    21300106: TempInventorySprites_53
-    21300108: TempInventorySprites_54
-    21300110: TempInventorySprites_55
-    21300112: TempInventorySprites_56
-    21300114: TempInventorySprites_57
-    21300116: TempInventorySprites_58
-    21300118: TempInventorySprites_59
-    21300120: TempInventorySprites_60
-    21300122: TempInventorySprites_61
-    21300124: TempInventorySprites_62
-    21300126: TempInventorySprites_63
-    21300128: TempInventorySprites_64
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TempInventorySprites_0
+  - first:
+      213: 21300002
+    second: TempInventorySprites_1
+  - first:
+      213: 21300004
+    second: TempInventorySprites_2
+  - first:
+      213: 21300006
+    second: TempInventorySprites_3
+  - first:
+      213: 21300008
+    second: TempInventorySprites_4
+  - first:
+      213: 21300010
+    second: TempInventorySprites_5
+  - first:
+      213: 21300012
+    second: TempInventorySprites_6
+  - first:
+      213: 21300014
+    second: TempInventorySprites_7
+  - first:
+      213: 21300016
+    second: TempInventorySprites_8
+  - first:
+      213: 21300018
+    second: TempInventorySprites_9
+  - first:
+      213: 21300020
+    second: TempInventorySprites_10
+  - first:
+      213: 21300022
+    second: TempInventorySprites_11
+  - first:
+      213: 21300024
+    second: TempInventorySprites_12
+  - first:
+      213: 21300026
+    second: TempInventorySprites_13
+  - first:
+      213: 21300028
+    second: TempInventorySprites_14
+  - first:
+      213: 21300030
+    second: TempInventorySprites_15
+  - first:
+      213: 21300032
+    second: TempInventorySprites_16
+  - first:
+      213: 21300034
+    second: TempInventorySprites_17
+  - first:
+      213: 21300036
+    second: TempInventorySprites_18
+  - first:
+      213: 21300038
+    second: TempInventorySprites_19
+  - first:
+      213: 21300040
+    second: TempInventorySprites_20
+  - first:
+      213: 21300042
+    second: TempInventorySprites_21
+  - first:
+      213: 21300044
+    second: TempInventorySprites_22
+  - first:
+      213: 21300046
+    second: TempInventorySprites_23
+  - first:
+      213: 21300048
+    second: TempInventorySprites_24
+  - first:
+      213: 21300050
+    second: TempInventorySprites_25
+  - first:
+      213: 21300052
+    second: TempInventorySprites_26
+  - first:
+      213: 21300054
+    second: TempInventorySprites_27
+  - first:
+      213: 21300056
+    second: TempInventorySprites_28
+  - first:
+      213: 21300058
+    second: TempInventorySprites_29
+  - first:
+      213: 21300060
+    second: TempInventorySprites_30
+  - first:
+      213: 21300062
+    second: TempInventorySprites_31
+  - first:
+      213: 21300064
+    second: TempInventorySprites_32
+  - first:
+      213: 21300066
+    second: TempInventorySprites_33
+  - first:
+      213: 21300068
+    second: TempInventorySprites_34
+  - first:
+      213: 21300070
+    second: TempInventorySprites_35
+  - first:
+      213: 21300072
+    second: TempInventorySprites_36
+  - first:
+      213: 21300074
+    second: TempInventorySprites_37
+  - first:
+      213: 21300076
+    second: TempInventorySprites_38
+  - first:
+      213: 21300078
+    second: TempInventorySprites_39
+  - first:
+      213: 21300080
+    second: TempInventorySprites_40
+  - first:
+      213: 21300082
+    second: TempInventorySprites_41
+  - first:
+      213: 21300084
+    second: TempInventorySprites_42
+  - first:
+      213: 21300086
+    second: TempInventorySprites_43
+  - first:
+      213: 21300088
+    second: TempInventorySprites_44
+  - first:
+      213: 21300090
+    second: TempInventorySprites_45
+  - first:
+      213: 21300092
+    second: TempInventorySprites_46
+  - first:
+      213: 21300094
+    second: TempInventorySprites_47
+  - first:
+      213: 21300096
+    second: TempInventorySprites_48
+  - first:
+      213: 21300098
+    second: TempInventorySprites_49
+  - first:
+      213: 21300100
+    second: TempInventorySprites_50
+  - first:
+      213: 21300102
+    second: TempInventorySprites_51
+  - first:
+      213: 21300104
+    second: TempInventorySprites_52
+  - first:
+      213: 21300106
+    second: TempInventorySprites_53
+  - first:
+      213: 21300108
+    second: TempInventorySprites_54
+  - first:
+      213: 21300110
+    second: TempInventorySprites_55
+  - first:
+      213: 21300112
+    second: TempInventorySprites_56
+  - first:
+      213: 21300114
+    second: TempInventorySprites_57
+  - first:
+      213: 21300116
+    second: TempInventorySprites_58
+  - first:
+      213: 21300118
+    second: TempInventorySprites_59
+  - first:
+      213: 21300120
+    second: TempInventorySprites_60
+  - first:
+      213: 21300122
+    second: TempInventorySprites_61
+  - first:
+      213: 21300124
+    second: TempInventorySprites_62
+  - first:
+      213: 21300126
+    second: TempInventorySprites_63
+  - first:
+      213: 21300128
+    second: TempInventorySprites_64
+  externalObjects: {}
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -85,37 +216,65 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: TempInventorySprites_0
+    - serializedVersion: 2
+      name: TempInventorySprites_0
       rect:
         serializedVersion: 2
         x: 1
@@ -126,7 +285,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_1
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_1
       rect:
         serializedVersion: 2
         x: 30
@@ -137,7 +306,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_2
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_2
       rect:
         serializedVersion: 2
         x: 59
@@ -148,7 +327,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_3
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_3
       rect:
         serializedVersion: 2
         x: 88
@@ -159,7 +348,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_4
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_4
       rect:
         serializedVersion: 2
         x: 117
@@ -170,7 +369,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_5
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_5
       rect:
         serializedVersion: 2
         x: 1
@@ -181,7 +390,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_6
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_6
       rect:
         serializedVersion: 2
         x: 30
@@ -192,7 +411,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_7
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_7
       rect:
         serializedVersion: 2
         x: 59
@@ -203,7 +432,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_8
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_8
       rect:
         serializedVersion: 2
         x: 88
@@ -214,7 +453,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_9
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_9
       rect:
         serializedVersion: 2
         x: 117
@@ -225,7 +474,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_10
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_10
       rect:
         serializedVersion: 2
         x: 1
@@ -236,7 +495,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_11
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_11
       rect:
         serializedVersion: 2
         x: 30
@@ -247,7 +516,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_12
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_12
       rect:
         serializedVersion: 2
         x: 59
@@ -258,7 +537,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_13
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_13
       rect:
         serializedVersion: 2
         x: 88
@@ -269,7 +558,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_14
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_14
       rect:
         serializedVersion: 2
         x: 117
@@ -280,7 +579,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_15
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_15
       rect:
         serializedVersion: 2
         x: 1
@@ -291,7 +600,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_16
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_16
       rect:
         serializedVersion: 2
         x: 30
@@ -302,7 +621,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_17
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_17
       rect:
         serializedVersion: 2
         x: 59
@@ -313,7 +642,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_18
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_18
       rect:
         serializedVersion: 2
         x: 88
@@ -324,7 +663,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_19
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_19
       rect:
         serializedVersion: 2
         x: 117
@@ -335,7 +684,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_20
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_20
       rect:
         serializedVersion: 2
         x: 1
@@ -346,7 +705,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_21
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_21
       rect:
         serializedVersion: 2
         x: 30
@@ -357,7 +726,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_22
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_22
       rect:
         serializedVersion: 2
         x: 59
@@ -368,7 +747,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_23
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_23
       rect:
         serializedVersion: 2
         x: 88
@@ -379,7 +768,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_24
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_24
       rect:
         serializedVersion: 2
         x: 117
@@ -390,7 +789,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_25
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_25
       rect:
         serializedVersion: 2
         x: 1
@@ -401,7 +810,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_26
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_26
       rect:
         serializedVersion: 2
         x: 30
@@ -412,7 +831,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_27
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_27
       rect:
         serializedVersion: 2
         x: 59
@@ -423,7 +852,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_28
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_28
       rect:
         serializedVersion: 2
         x: 88
@@ -434,7 +873,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_29
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_29
       rect:
         serializedVersion: 2
         x: 117
@@ -445,7 +894,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_30
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_30
       rect:
         serializedVersion: 2
         x: 1
@@ -456,7 +915,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_31
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_31
       rect:
         serializedVersion: 2
         x: 30
@@ -467,7 +936,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_32
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_32
       rect:
         serializedVersion: 2
         x: 59
@@ -478,7 +957,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_33
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_33
       rect:
         serializedVersion: 2
         x: 88
@@ -489,7 +978,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_34
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_34
       rect:
         serializedVersion: 2
         x: 117
@@ -500,7 +999,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_35
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_35
       rect:
         serializedVersion: 2
         x: 1
@@ -511,7 +1020,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_36
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_36
       rect:
         serializedVersion: 2
         x: 30
@@ -522,7 +1041,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_37
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_37
       rect:
         serializedVersion: 2
         x: 59
@@ -533,7 +1062,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_38
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_38
       rect:
         serializedVersion: 2
         x: 88
@@ -544,7 +1083,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_39
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_39
       rect:
         serializedVersion: 2
         x: 117
@@ -555,7 +1104,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_40
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_40
       rect:
         serializedVersion: 2
         x: 1
@@ -566,7 +1125,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_41
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_41
       rect:
         serializedVersion: 2
         x: 30
@@ -577,7 +1146,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_42
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_42
       rect:
         serializedVersion: 2
         x: 59
@@ -588,7 +1167,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_43
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_43
       rect:
         serializedVersion: 2
         x: 88
@@ -599,7 +1188,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_44
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_44
       rect:
         serializedVersion: 2
         x: 117
@@ -610,7 +1209,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_45
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_45
       rect:
         serializedVersion: 2
         x: 1
@@ -621,7 +1230,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_46
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_46
       rect:
         serializedVersion: 2
         x: 30
@@ -632,7 +1251,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_47
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_47
       rect:
         serializedVersion: 2
         x: 59
@@ -643,7 +1272,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_48
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_48
       rect:
         serializedVersion: 2
         x: 88
@@ -654,7 +1293,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_49
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_49
       rect:
         serializedVersion: 2
         x: 117
@@ -665,7 +1314,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_50
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_50
       rect:
         serializedVersion: 2
         x: 1
@@ -676,7 +1335,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_51
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_51
       rect:
         serializedVersion: 2
         x: 30
@@ -687,7 +1356,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_52
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_52
       rect:
         serializedVersion: 2
         x: 59
@@ -698,7 +1377,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_53
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_53
       rect:
         serializedVersion: 2
         x: 88
@@ -709,7 +1398,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_54
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_54
       rect:
         serializedVersion: 2
         x: 117
@@ -720,7 +1419,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_55
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_55
       rect:
         serializedVersion: 2
         x: 1
@@ -731,7 +1440,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_56
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_56
       rect:
         serializedVersion: 2
         x: 30
@@ -742,7 +1461,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_57
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_57
       rect:
         serializedVersion: 2
         x: 59
@@ -753,7 +1482,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_58
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_58
       rect:
         serializedVersion: 2
         x: 88
@@ -764,7 +1503,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_59
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_59
       rect:
         serializedVersion: 2
         x: 117
@@ -775,7 +1524,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_60
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_60
       rect:
         serializedVersion: 2
         x: 1
@@ -786,7 +1545,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_61
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_61
       rect:
         serializedVersion: 2
         x: 30
@@ -797,7 +1566,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_62
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_62
       rect:
         serializedVersion: 2
         x: 59
@@ -808,7 +1587,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_63
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_63
       rect:
         serializedVersion: 2
         x: 88
@@ -819,7 +1608,17 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: TempInventorySprites_64
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempInventorySprites_64
       rect:
         serializedVersion: 2
         x: 117
@@ -830,8 +1629,28 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
